@@ -1,0 +1,31 @@
+{
+  "session_id": "c2239ef3-72cf-4ac4-b678-9144a310ac52",
+  "started_at": "2024-12-29 22:52:57",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": "2024-12-29 22:52:57"
+    },
+    {
+      "role": "user",
+      "content": "Hj there",
+      "timestamp": "2024-12-29 22:53:02"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! How can I assist you today?",
+      "timestamp": "2024-12-29 22:53:07"
+    },
+    {
+      "role": "user",
+      "content": "What's doing",
+      "timestamp": "2024-12-29 22:53:12"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! How can I assist you today? Whether you need information, help with a problem, or just want to chat, feel free to ask!",
+      "timestamp": "2024-12-29 22:53:18"
+    }
+  ]
+}

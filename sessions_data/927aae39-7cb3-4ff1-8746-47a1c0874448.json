@@ -1,0 +1,21 @@
+{
+  "session_id": "927aae39-7cb3-4ff1-8746-47a1c0874448",
+  "started_at": "2024-12-29 00:45:57",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": "2024-12-29 00:45:57"
+    },
+    {
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2024-12-29 00:46:01"
+    },
+    {
+      "role": "assistant",
+      "content": "The user greeted twice with \"Hello\" and \"hi.\" It's a basic greeting exchange.",
+      "timestamp": "2024-12-29 00:46:05"
+    }
+  ]
+}

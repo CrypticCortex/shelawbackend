@@ -1,0 +1,21 @@
+{
+  "session_id": "998b0485-48d4-484e-8ae5-0c2d32059500",
+  "started_at": "2025-01-12 14:17:43",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": "2025-01-12 14:17:43"
+    },
+    {
+      "role": "user",
+      "content": "bye",
+      "timestamp": "2025-01-12 14:17:46"
+    },
+    {
+      "role": "assistant",
+      "content": "The text contains only the greetings \"Hello\" and \"bye,\" with no additional context to analyze. If you have specific questions or need further assistance, please provide more details.",
+      "timestamp": "2025-01-12 14:17:51"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "session_id": "c99c1e01-d1f1-4ad9-9358-4329fdf8891d",
+  "started_at": "2025-01-12 14:39:25",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": "2025-01-12 14:39:25"
+    }
+  ]
+}

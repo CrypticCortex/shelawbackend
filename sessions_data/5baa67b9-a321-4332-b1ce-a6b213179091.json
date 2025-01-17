@@ -1,0 +1,21 @@
+{
+  "session_id": "5baa67b9-a321-4332-b1ce-a6b213179091",
+  "started_at": "2025-01-12 00:13:39",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": "2025-01-12 00:13:39"
+    },
+    {
+      "role": "user",
+      "content": "bye",
+      "timestamp": "2025-01-12 00:13:43"
+    },
+    {
+      "role": "assistant",
+      "content": "The user initiated the conversation with \"Hello\" and concluded it with \"bye,\" suggesting a straightforward exchange without further context.",
+      "timestamp": "2025-01-12 00:13:50"
+    }
+  ]
+}

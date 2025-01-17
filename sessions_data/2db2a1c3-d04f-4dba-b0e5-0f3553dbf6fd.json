@@ -1,0 +1,21 @@
+{
+  "session_id": "2db2a1c3-d04f-4dba-b0e5-0f3553dbf6fd",
+  "started_at": "2025-01-18 03:38:32",
+  "messages": [
+    {
+      "role": "user",
+      "content": "oho",
+      "timestamp": "2025-01-18 03:38:32"
+    },
+    {
+      "role": "user",
+      "content": "",
+      "timestamp": "2025-01-18 03:38:32"
+    },
+    {
+      "role": "assistant",
+      "content": "It looks like \"oho\" isn't enough for a detailed response. Please provide more context or a specific question to get a more accurate answer.",
+      "timestamp": "2025-01-18 03:38:38"
+    }
+  ]
+}

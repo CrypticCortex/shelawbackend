@@ -1,0 +1,16 @@
+{
+  "session_id": "f6f05645-5d57-4288-989b-772c0392b491",
+  "started_at": "2025-01-12 15:37:11",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": "2025-01-12 15:37:11"
+    },
+    {
+      "role": "user",
+      "content": "tell me about delhi case",
+      "timestamp": "2025-01-12 15:37:18"
+    }
+  ]
+}

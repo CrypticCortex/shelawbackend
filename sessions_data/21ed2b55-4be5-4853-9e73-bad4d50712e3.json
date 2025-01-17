@@ -1,0 +1,21 @@
+{
+  "session_id": "21ed2b55-4be5-4853-9e73-bad4d50712e3",
+  "started_at": "2024-12-29 21:59:22",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": "2024-12-29 21:59:22"
+    },
+    {
+      "role": "user",
+      "content": "hi there gimme recent news of nirbhaya cade",
+      "timestamp": "2024-12-29 21:59:33"
+    },
+    {
+      "role": "assistant",
+      "content": "As of October 2023, there have been no new developments in the Nirbhaya case since the execution of the four convicts in March 2020. The case involved the gang rape and murder of a 23-year-old in December 2012 in Delhi and led to major protests and legal reforms in India. Twelve years later, the victim's mother has expressed concerns about continuing safety issues for women in India. The case continues to be a significant reference in discussions on women's safety and legal reforms. For more updates, consult the latest news sources.",
+      "timestamp": "2024-12-29 21:59:50"
+    }
+  ]
+}

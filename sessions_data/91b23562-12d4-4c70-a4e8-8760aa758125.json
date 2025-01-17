@@ -1,0 +1,21 @@
+{
+  "session_id": "91b23562-12d4-4c70-a4e8-8760aa758125",
+  "started_at": "2024-12-30 00:03:41",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": "2024-12-30 00:03:41"
+    },
+    {
+      "role": "user",
+      "content": "My husband is trying to get physical without my consent what should I do legally",
+      "timestamp": "2024-12-30 00:04:05"
+    },
+    {
+      "role": "assistant",
+      "content": "If your husband is attempting unwanted physical contact, prioritize your safety and seek legal help. \n\n1. **Ensure Safety:** Call emergency services if in immediate danger and find a safe place.\n   \n2. **Document Incidents:** Record details like dates, times, and locations for legal purposes.\n\n3. **Seek Legal Advice:** Consult a lawyer specializing in family or domestic violence for guidance on rights and options, such as restraining orders or divorce.\n\n4. **Contact Support Services:** Reach out to local domestic violence organizations for support and resources.\n\n5. **Consider Protection Orders:** Explore obtaining a legal order to prevent contact, depending on your jurisdiction.\n\n6. **Report to Police:** Inform law enforcement if threatened or harmed for protection and investigation.\n\nThese steps can help secure your safety and provide necessary legal support. Remember, support and resources are available to help you through this.",
+      "timestamp": "2024-12-30 00:04:26"
+    }
+  ]
+}

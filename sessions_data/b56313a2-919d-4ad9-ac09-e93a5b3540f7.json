@@ -1,0 +1,31 @@
+{
+  "session_id": "b56313a2-919d-4ad9-ac09-e93a5b3540f7",
+  "started_at": "2025-01-12 15:03:20",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": "2025-01-12 15:03:20"
+    },
+    {
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2025-01-12 15:04:35"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! I'm here to help. What do you need assistance with today?",
+      "timestamp": "2025-01-12 15:04:45"
+    },
+    {
+      "role": "user",
+      "content": "wassup",
+      "timestamp": "2025-01-12 15:08:17"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! If you have any specific questions or need assistance, feel free to ask. I'm here to help with any information or support you might need.",
+      "timestamp": "2025-01-12 15:08:28"
+    }
+  ]
+}

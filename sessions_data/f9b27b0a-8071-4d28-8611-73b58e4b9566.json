@@ -1,0 +1,21 @@
+{
+  "session_id": "f9b27b0a-8071-4d28-8611-73b58e4b9566",
+  "started_at": "2024-12-29 22:57:26",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": "2024-12-29 22:57:26"
+    },
+    {
+      "role": "user",
+      "content": "Hi",
+      "timestamp": "2024-12-29 22:57:31"
+    },
+    {
+      "role": "assistant",
+      "content": "The user starts the conversation with \"Hello\" followed by \"Hi,\" indicating a typical opening to establish communication.",
+      "timestamp": "2024-12-29 22:57:36"
+    }
+  ]
+}

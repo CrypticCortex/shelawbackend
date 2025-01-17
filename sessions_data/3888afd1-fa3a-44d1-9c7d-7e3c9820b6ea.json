@@ -1,0 +1,21 @@
+{
+  "session_id": "3888afd1-fa3a-44d1-9c7d-7e3c9820b6ea",
+  "started_at": "2025-01-18 03:37:38",
+  "messages": [
+    {
+      "role": "user",
+      "content": "who is the new president of usa",
+      "timestamp": "2025-01-18 03:37:38"
+    },
+    {
+      "role": "user",
+      "content": "",
+      "timestamp": "2025-01-18 03:37:38"
+    },
+    {
+      "role": "assistant",
+      "content": "As of the information provided, Donald Trump is the president-elect and will be officially sworn in on Inauguration Day, January 20, 2025, succeeding Joe Biden.",
+      "timestamp": "2025-01-18 03:37:52"
+    }
+  ]
+}

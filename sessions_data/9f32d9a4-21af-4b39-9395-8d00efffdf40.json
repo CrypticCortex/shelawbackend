@@ -1,0 +1,21 @@
+{
+  "session_id": "9f32d9a4-21af-4b39-9395-8d00efffdf40",
+  "started_at": "2024-12-29 23:05:53",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": "2024-12-29 23:05:53"
+    },
+    {
+      "role": "user",
+      "content": "Helooo gimme details about child marriage and legal rights",
+      "timestamp": "2024-12-29 23:06:07"
+    },
+    {
+      "role": "assistant",
+      "content": "Child marriage involves the union of a child, usually under 18, leading to negative impacts on health, education, and economic prospects. Most countries legally set the minimum marriage age at 18 to protect children. International conventions, like the Convention on the Rights of the Child, advocate against child marriage. Legal frameworks exist in many countries to prohibit and annul such marriages, with penalties for violators. However, enforcement is often hindered by cultural, social, or economic factors. NGOs and international organizations work to educate communities, support victims, and strengthen legal enforcement to combat child marriage and promote children's rights.",
+      "timestamp": "2024-12-29 23:06:22"
+    }
+  ]
+}

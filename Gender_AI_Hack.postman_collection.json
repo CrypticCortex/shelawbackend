@@ -1,0 +1,121 @@
+{
+    "info": {
+      "name": "Gender AI Hack",
+      "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+      "description": "Postman collection for interacting with the Gender AI Hack FastAPI application."
+    },
+    "item": [
+      {
+        "name": "Health Check",
+        "request": {
+          "method": "GET",
+          "header": [],
+          "url": {
+            "raw": "http://localhost:8000/health",
+            "protocol": "http",
+            "host": ["localhost"],
+            "port": "8000",
+            "path": ["health"]
+          }
+        },
+        "response": []
+      },
+      {
+        "name": "Create Session for User 1",
+        "request": {
+          "method": "POST",
+          "header": [
+            {
+              "key": "Content-Type",
+              "value": "application/json"
+            }
+          ],
+          "body": {
+            "mode": "raw",
+            "raw": "{\n  \"user_input\": \"Hello, I need help with my account.\",\n  \"tone\": \"casual\"\n}"
+          },
+          "url": {
+            "raw": "http://localhost:8000/ask",
+            "protocol": "http",
+            "host": ["localhost"],
+            "port": "8000",
+            "path": ["ask"]
+          }
+        },
+        "response": []
+      },
+      {
+        "name": "Create Session for User 2",
+        "request": {
+          "method": "POST",
+          "header": [
+            {
+              "key": "Content-Type",
+              "value": "application/json"
+            }
+          ],
+          "body": {
+            "mode": "raw",
+            "raw": "{\n  \"user_input\": \"Hi, I have a question about billing.\",\n  \"tone\": \"detailed\"\n}"
+          },
+          "url": {
+            "raw": "http://localhost:8000/ask",
+            "protocol": "http",
+            "host": ["localhost"],
+            "port": "8000",
+            "path": ["ask"]
+          }
+        },
+        "response": []
+      },
+      {
+        "name": "Reset Session for User 1",
+        "request": {
+          "method": "POST",
+          "header": [
+            {
+              "key": "Content-Type",
+              "value": "application/json"
+            }
+          ],
+          "body": {
+            "mode": "raw",
+            "raw": "{\n  \"session_id\": \"<replace_with_user1_session_id>\"\n}"
+          },
+          "url": {
+            "raw": "http://localhost:8000/reset",
+            "protocol": "http",
+            "host": ["localhost"],
+            "port": "8000",
+            "path": ["reset"]
+          }
+        },
+        "response": []
+      },
+      {
+        "name": "Reset Session for User 2",
+        "request": {
+          "method": "POST",
+          "header": [
+            {
+              "key": "Content-Type",
+              "value": "application/json"
+            }
+          ],
+          "body": {
+            "mode": "raw",
+            "raw": "{\n  \"session_id\": \"<replace_with_user2_session_id>\"\n}"
+          },
+          "url": {
+            "raw": "http://localhost:8000/reset",
+            "protocol": "http",
+            "host": ["localhost"],
+            "port": "8000",
+            "path": ["reset"]
+          }
+        },
+        "response": []
+      }
+    ]
+  }
+  

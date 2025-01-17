@@ -1,0 +1,11 @@
+{
+  "session_id": "0d42a157-83e5-41a8-b5f9-c889d6531117",
+  "started_at": "2024-12-29 22:40:41",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hi?",
+      "timestamp": "2024-12-29 22:40:41"
+    }
+  ]
+}

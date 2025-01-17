@@ -1,0 +1,21 @@
+{
+  "session_id": "198f8d79-fedb-4163-b781-1b3f279310d6",
+  "started_at": "2024-12-29 22:09:04",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": "2024-12-29 22:09:04"
+    },
+    {
+      "role": "user",
+      "content": "hi gimme news about seleba gomes abusal",
+      "timestamp": "2024-12-29 22:09:19"
+    },
+    {
+      "role": "assistant",
+      "content": "The user seems to be referring to Selena Gomez, as \"Seleba Gomes Abusal\" isn't a known public figure. Recently, Selena Gomez announced her engagement to music producer Benny Blanco, sharing photos of her marquise-shaped diamond ring on Instagram and calling it a dream come true. They celebrated with an intimate gathering. For more on Selena Gomez, her Instagram offers insights into her personal and professional life.",
+      "timestamp": "2024-12-29 22:09:31"
+    }
+  ]
+}

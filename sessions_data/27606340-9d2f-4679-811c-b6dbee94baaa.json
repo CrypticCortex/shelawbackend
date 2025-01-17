@@ -1,0 +1,31 @@
+{
+  "session_id": "27606340-9d2f-4679-811c-b6dbee94baaa",
+  "started_at": "2024-12-29 00:38:06",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": "2024-12-29 00:38:06"
+    },
+    {
+      "role": "user",
+      "content": "hi there I'm xyz from nagaland",
+      "timestamp": "2024-12-29 00:38:13"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! It's great to meet you too. How can I help you today?",
+      "timestamp": "2024-12-29 00:38:18"
+    },
+    {
+      "role": "user",
+      "content": "I'm having dowry issue in my inlaw house is there any legal thing I can do?",
+      "timestamp": "2024-12-29 00:38:49"
+    },
+    {
+      "role": "assistant",
+      "content": "If you face dowry-related issues with your in-laws in India, you can take legal steps to protect yourself:\n\n1. **File a Complaint:** Report the issue at the local police station under the Dowry Prohibition Act, 1961, as dowry practices are illegal.\n\n2. **Section 498A:** Use this section of the Indian Penal Code to address cruelty by husband or in-laws related to dowry harassment.\n\n3. **Women's Helpline/NGOs:** Contact helplines and organizations for legal advice, counseling, and support.\n\n4. **Legal Advice:** Consult a family law lawyer to understand your rights and options.\n\n5. **Safety and Support:** Ensure your safety and seek support from trusted friends or family.\n\nLegal frameworks exist to help you, and you are not alone in facing this issue.",
+      "timestamp": "2024-12-29 00:39:05"
+    }
+  ]
+}

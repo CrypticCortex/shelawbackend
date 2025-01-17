@@ -1,0 +1,21 @@
+{
+  "session_id": "2a3933b9-f363-4073-9260-9abe1d7beaab",
+  "started_at": "2025-01-10 23:32:30",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": "2025-01-10 23:32:30"
+    },
+    {
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2025-01-10 23:38:59"
+    },
+    {
+      "role": "assistant",
+      "content": "The text is a simple greeting exchange between the user and another party, consisting only of \"Hello\" and \"hi,\" with no additional context or details.",
+      "timestamp": "2025-01-10 23:39:13"
+    }
+  ]
+}

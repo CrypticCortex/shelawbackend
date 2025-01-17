@@ -1,0 +1,21 @@
+{
+  "session_id": "50758a86-dada-4de3-8372-58a5d7c24fca",
+  "started_at": "2024-12-29 21:49:13",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": "2024-12-29 21:49:13"
+    },
+    {
+      "role": "user",
+      "content": "hi there tell me recent news about wome in india ",
+      "timestamp": "2024-12-29 21:49:22"
+    },
+    {
+      "role": "assistant",
+      "content": "In late 2024, notable news from India includes the recognition of three Indian women on Forbes' 2024 World's Most Powerful List, celebrating their achievements and global impact. Conversely, troubling events include the arrest of three individuals in Gurugram for extorting \u20b980 lakh from a 15-year-old girl, highlighting ongoing challenges faced by women in India.",
+      "timestamp": "2024-12-29 21:49:36"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "session_id": "294b6947-51fb-41ec-ad8f-96cd21131a55",
+  "started_at": "2024-12-29 00:42:04",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": "2024-12-29 00:42:04"
+    },
+    {
+      "role": "user",
+      "content": "hi I'm xyz from the office ",
+      "timestamp": "2024-12-29 00:42:11"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! It's great to connect with you too. How can I assist you today?",
+      "timestamp": "2024-12-29 00:42:16"
+    }
+  ]
+}

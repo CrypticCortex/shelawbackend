@@ -1,0 +1,21 @@
+{
+  "session_id": "470b0fa4-c60b-477c-becf-90850facebc3",
+  "started_at": "2024-12-29 21:20:17",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": "2024-12-29 21:20:17"
+    },
+    {
+      "role": "user",
+      "content": "hi there",
+      "timestamp": "2024-12-29 21:20:20"
+    },
+    {
+      "role": "assistant",
+      "content": "The user greets with \"Hello,\" and the system replies with \"hi there,\" forming a basic conversational opening.",
+      "timestamp": "2024-12-29 21:20:31"
+    }
+  ]
+}

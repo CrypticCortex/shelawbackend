@@ -1,0 +1,21 @@
+{
+  "session_id": "67ecc8ba-982d-4f72-8d20-00f4642b1a2b",
+  "started_at": "2025-01-18 02:21:24",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2025-01-18 02:21:24"
+    },
+    {
+      "role": "user",
+      "content": "",
+      "timestamp": "2025-01-18 02:21:24"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! Please provide more details or specify a topic or question, and I'll be glad to assist you.",
+      "timestamp": "2025-01-18 02:21:31"
+    }
+  ]
+}

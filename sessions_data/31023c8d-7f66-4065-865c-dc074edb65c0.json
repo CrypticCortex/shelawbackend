@@ -1,0 +1,16 @@
+{
+  "session_id": "31023c8d-7f66-4065-865c-dc074edb65c0",
+  "started_at": "2025-01-18 03:50:39",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2025-01-18 03:50:39"
+    },
+    {
+      "role": "user",
+      "content": "",
+      "timestamp": "2025-01-18 03:50:40"
+    }
+  ]
+}

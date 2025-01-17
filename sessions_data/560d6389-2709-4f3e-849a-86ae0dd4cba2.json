@@ -1,0 +1,31 @@
+{
+  "session_id": "560d6389-2709-4f3e-849a-86ae0dd4cba2",
+  "started_at": "2024-12-29 00:33:04",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": "2024-12-29 00:33:04"
+    },
+    {
+      "role": "user",
+      "content": "I'm Kalyan hiii",
+      "timestamp": "2024-12-29 00:33:10"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! It's great to meet you too. How can I help you today?",
+      "timestamp": "2024-12-29 00:33:15"
+    },
+    {
+      "role": "user",
+      "content": "I'm having dowry issue",
+      "timestamp": "2024-12-29 00:34:29"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello Kalyan! I'm sorry to hear about your dowry issue. Here are some key insights and suggestions:\n\n1. **Understanding the Dowry System**: The dowry system involves parental wealth transfer to the groom's family at marriage, often linked to gender inequality and potential violence against women.\n\n2. **Responding to Dowry Demands**: Firmly communicate your values about marriage being based on equality rather than financial transactions. Calm discussions about the negative implications of dowry can be effective.\n\n3. **Seek Support**: If the situation escalates, reach out to family, friends, or organizations that advocate against dowry practices for guidance and assistance.\n\n4. **Legal Recourse**: Know your legal rights; demanding dowry is illegal in India under the Dowry Prohibition Act, which provides protections against harassment.\n\nFeel free to share more details if you need specific advice or assistance.",
+      "timestamp": "2024-12-29 00:35:01"
+    }
+  ]
+}

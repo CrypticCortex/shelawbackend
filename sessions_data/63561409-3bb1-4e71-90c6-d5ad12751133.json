@@ -1,0 +1,21 @@
+{
+  "session_id": "63561409-3bb1-4e71-90c6-d5ad12751133",
+  "started_at": "2024-12-29 00:43:36",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": "2024-12-29 00:43:36"
+    },
+    {
+      "role": "user",
+      "content": "hi I'm xyz from nagaland ",
+      "timestamp": "2024-12-29 00:43:42"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! It's nice to meet you too. How can I help you today?",
+      "timestamp": "2024-12-29 00:43:46"
+    }
+  ]
+}
